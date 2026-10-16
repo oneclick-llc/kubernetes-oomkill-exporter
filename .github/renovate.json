@@ -11,7 +11,7 @@
   ],
   "commitMessageAction": "Renovate: Update",
   "constraints": {
-    "go": "1.24"
+    "go": "1.27"
   },
   "dependencyDashboardOSVVulnerabilitySummary": "all",
   "osvVulnerabilityAlerts": true,
@@ -24,7 +24,7 @@
       "matchPackageNames": [
         "golang"
       ],
-      "allowedVersions": "1.24.x"
+      "allowedVersions": "1.27.x"
     },
     {
       "matchPackageNames": [
@@ -48,7 +48,7 @@
       "matchPackageNames": [
         "/^k8s.io\\//"
       ],
-      "allowedVersions": "0.28.x"
+      "allowedVersions": "0.37.x"
     }
   ],
   "prHourlyLimit": 0,
